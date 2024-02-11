@@ -1,0 +1,87 @@
+{
+  "id": "vulcania-core-rulebook-it",
+  "title": "Vulcania Core Rulebook IT",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "description": "Pacchetto Base per il sistema di gioco di Vulcania (italiano)",
+  "authors": [
+    {
+      "name": "Heyrold",
+      "discord": "Heyrold#4406",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "vulcania-core-rulebook",
+      "label": "Vulcania Core Rulebook",
+      "path": "packs/vulcania-core-rulebook",
+      "type": "JournalEntry",
+     "system": "vulcania",
+      "flags": {}
+    },
+    {
+      "name": "equipaggiamento",
+      "label": "Equipaggiamento",
+      "path": "packs/equipaggiamento",
+      "type": "Item",
+     "system": "vulcania",
+      "flags": {}
+    },
+    {
+      "name": "arti",
+      "label": "Arti",
+      "path": "packs/arti",
+      "type": "Item",
+     "system": "vulcania",
+      "flags": {}
+    },
+    {
+      "name": "mutazioni",
+      "label": "Mutazioni",
+      "path": "packs/mutazioni",
+      "type": "Item",
+     "system": "vulcania",
+      "flags": {}
+    },
+    {
+      "name": "tratti-personalita",
+      "label": "Tratti-Personalità",
+      "path": "packs/tratti-personalita",
+      "type": "Item",
+     "system": "vulcania",
+      "flags": {}
+    },
+    {
+      "name": "pg-png-creature",
+      "label": "PG-PNG-Creature",
+      "path": "packs/pg-png-creature",
+      "type": "Actor",
+      "system": "vulcania",
+      "flags": {}
+    },
+    {
+      "name": "tabelle",
+      "label": "Tabelle",
+      "path": "packs/tabelle",
+      "type": "RollTable",
+      "system": "vulcania",
+      "flags": {}
+    },
+    {
+      "name": "scene",
+      "label": "Scene",
+      "path": "packs/scene",
+      "type": "Scene",
+       "system": "vulcania",
+      "flags": {}
+    }
+  ],
+
+  "url": "https://github.com/heyrold73/vulcania-core-rulebook-it",
+  "manifest": "https://github.com/heyrold73/vulcania-core-rulebook-it/releases/latest/download/module.json",
+  "download": "https://github.com/heyrold73/vulcania-core-rulebook-it/releases/latest/download/module.zip"
+}
