@@ -1,7 +1,7 @@
 {
   "id": "vulcania-core-rulebook-it",
   "title": "Vulcania Core Rulebook IT",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -20,7 +20,7 @@
       "label": "Vulcania Core Rulebook",
       "path": "packs/vulcania-core-rulebook",
       "type": "JournalEntry",
-     "system": "vulcania",
+      "system": "vulcania",
       "flags": {}
     },
     {
@@ -28,7 +28,7 @@
       "label": "Equipaggiamento",
       "path": "packs/equipaggiamento",
       "type": "Item",
-     "system": "vulcania",
+      "system": "vulcania",
       "flags": {}
     },
     {
@@ -36,7 +36,7 @@
       "label": "Arti",
       "path": "packs/arti",
       "type": "Item",
-     "system": "vulcania",
+      "system": "vulcania",
       "flags": {}
     },
     {
@@ -44,7 +44,7 @@
       "label": "Mutazioni",
       "path": "packs/mutazioni",
       "type": "Item",
-     "system": "vulcania",
+      "system": "vulcania",
       "flags": {}
     },
     {
@@ -52,13 +52,13 @@
       "label": "Tratti-Personalità",
       "path": "packs/tratti-personalita",
       "type": "Item",
-     "system": "vulcania",
+      "system": "vulcania",
       "flags": {}
     },
     {
-      "name": "pg-png-creature",
-      "label": "PG-PNG-Creature",
-      "path": "packs/pg-png-creature",
+      "name": "avversari",
+      "label": "Avversari",
+      "path": "packs/avversari",
       "type": "Actor",
       "system": "vulcania",
       "flags": {}
@@ -76,7 +76,7 @@
       "label": "Scene",
       "path": "packs/scene",
       "type": "Scene",
-       "system": "vulcania",
+      "system": "vulcania",
       "flags": {}
     }
   ],
