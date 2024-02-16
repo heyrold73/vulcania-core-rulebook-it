@@ -1,7 +1,7 @@
 {
   "id": "vulcania-core-rulebook-it",
   "title": "Vulcania Core Rulebook IT",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -59,6 +59,22 @@
       "name": "avversari",
       "label": "Avversari",
       "path": "packs/avversari",
+      "type": "Actor",
+      "system": "vulcania",
+      "flags": {}
+    },
+    {
+      "name": "template-item",
+      "label": "Template Item",
+      "path": "packs/template-item",
+      "type": "Item",
+      "system": "vulcania",
+      "flags": {}
+    },
+    {
+      "name": "template-pg-png-creature",
+      "label": "Template PG PNG CREATURE",
+      "path": "packs/template-pg-png-creature",
       "type": "Actor",
       "system": "vulcania",
       "flags": {}
