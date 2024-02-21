@@ -1,0 +1,14 @@
+2024/02/20-21:39:50.779 45b0 Recovering log #54
+2024/02/20-21:39:50.783 45b0 Delete type=0 #54
+2024/02/20-21:39:50.783 45b0 Delete type=3 #53
+2024/02/20-22:18:25.314 20ec Level-0 table #58: started
+2024/02/20-22:18:25.325 20ec Level-0 table #58: 1079388 bytes OK
+2024/02/20-22:18:25.327 20ec Delete type=0 #56
+2024/02/20-22:18:28.966 20ec Compacting 1@1 + 2@2 files
+2024/02/20-22:18:28.991 20ec Generated table #59@1: 486 keys, 2119712 bytes
+2024/02/20-22:18:29.000 20ec Generated table #60@1: 238 keys, 691968 bytes
+2024/02/20-22:18:29.000 20ec Compacted 1@1 + 2@2 files => 2811680 bytes
+2024/02/20-22:18:29.001 20ec compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/02/20-22:18:29.001 20ec Delete type=2 #31
+2024/02/20-22:18:29.001 20ec Delete type=2 #52
+2024/02/20-22:18:29.002 20ec Delete type=2 #58
